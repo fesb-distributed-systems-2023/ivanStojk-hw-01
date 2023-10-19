@@ -1,1 +1,4 @@
-# ivanStojk-hw-01
+# ivanStojk's First Repository
+Hello, World!
+---
+Author: ivanStojk
